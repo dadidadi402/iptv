@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+../nrnjt1ch/1728/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+../nrnjt1ch/640/chunklist.m3u8
 #EXTINF:0 tvg-id="24kitchen.nl" group-title="Undefined",24 Kitchen NL
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4808?checkedby:hlscat.com
 #EXTINF:0 tvg-id="ext" group-title="Undefined",7 HD AL
