@@ -1,1 +1,240 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Klan Plus HD
+http://opplex.tv:8080/1122/1122/68525
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Klan TV HD
+http://opplex.tv:8080/1122/1122/68526
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH 1 HD
+http://opplex.tv:8080/1122/1122/68527
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH 2 HD
+http://opplex.tv:8080/1122/1122/68528
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH 3 HD
+http://opplex.tv:8080/1122/1122/68529
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH 24
+http://opplex.tv:8080/1122/1122/68530
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH Plus
+http://opplex.tv:8080/1122/1122/68532
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | RTSH Shqip
+http://opplex.tv:8080/1122/1122/68533
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | T7
+http://opplex.tv:8080/1122/1122/68534
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Top Channel HD
+http://opplex.tv:8080/1122/1122/68535
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Vizion+ HD
+http://opplex.tv:8080/1122/1122/68536
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Vizion+ HD
+http://opplex.tv:8080/1122/1122/68537
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | A1 Report
+http://opplex.tv:8080/1122/1122/68538
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | ABC News
+http://opplex.tv:8080/1122/1122/68539
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Arta TV
+http://opplex.tv:8080/1122/1122/68540
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | News 24
+http://opplex.tv:8080/1122/1122/68541
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Ora News
+http://opplex.tv:8080/1122/1122/68542
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALB | Top News
+http://opplex.tv:8080/1122/1122/68543
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | ---------- FILMA ----------
+http://opplex.tv:8080/1122/1122/68544
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | 7 HD
+http://opplex.tv:8080/1122/1122/68545
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Euro Film 1
+http://opplex.tv:8080/1122/1122/68546
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Euro Film 2
+http://opplex.tv:8080/1122/1122/68547
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Nje HD
+http://opplex.tv:8080/1122/1122/68548
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Dy HD
+http://opplex.tv:8080/1122/1122/68549
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Aksion
+http://opplex.tv:8080/1122/1122/68550
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Autor
+http://opplex.tv:8080/1122/1122/68551
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Drame
+http://opplex.tv:8080/1122/1122/68552
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Hits HD
+http://opplex.tv:8080/1122/1122/68554
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Komedi
+http://opplex.tv:8080/1122/1122/68555
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Stinet
+http://opplex.tv:8080/1122/1122/68556
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Film Thriller
+http://opplex.tv:8080/1122/1122/68557
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Sky Aksion
+http://opplex.tv:8080/1122/1122/68558
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Sky Comedy
+http://opplex.tv:8080/1122/1122/68559
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | Sky Drama
+http://opplex.tv:8080/1122/1122/68560
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FILMA",ALB | T HD
+http://opplex.tv:8080/1122/1122/68562
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- ART MOTION",ALB | ---------- ART MOTION ----------
+http://opplex.tv:8080/1122/1122/68579
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- ART MOTION",ALB | ART Kino 1 HD
+http://opplex.tv:8080/1122/1122/68580
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- ART MOTION",ALB | ART Kino 3 HD
+http://opplex.tv:8080/1122/1122/68581
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- ART MOTION",ALB | ART Doku 1 HD
+http://opplex.tv:8080/1122/1122/68582
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- ART MOTION",ALB | ART Doku 2 HD
+http://opplex.tv:8080/1122/1122/68583
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | ---------- X ----------
+http://opplex.tv:8080/1122/1122/68584
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Action HD
+http://opplex.tv:8080/1122/1122/68585
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Comedy HD
+http://opplex.tv:8080/1122/1122/68586
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Drama HD
+http://opplex.tv:8080/1122/1122/68587
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Family HD
+http://opplex.tv:8080/1122/1122/68588
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Gold 1 HD
+http://opplex.tv:8080/1122/1122/68589
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Gold 2 HD
+http://opplex.tv:8080/1122/1122/68590
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Gold 3 HD
+http://opplex.tv:8080/1122/1122/68591
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Premium 1 HD
+http://opplex.tv:8080/1122/1122/68592
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Premium 2 HD
+http://opplex.tv:8080/1122/1122/68593
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Premium 3 HD
+http://opplex.tv:8080/1122/1122/68594
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Premium 4 HD
+http://opplex.tv:8080/1122/1122/68595
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Romance HD
+http://opplex.tv:8080/1122/1122/68596
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- X",ALB | X Western HD
+http://opplex.tv:8080/1122/1122/68597
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | ---------- KULTURE ----------
+http://opplex.tv:8080/1122/1122/68598
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Besa TV
+http://opplex.tv:8080/1122/1122/68599
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Discovery Channel
+http://opplex.tv:8080/1122/1122/68600
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Explorer Histori
+http://opplex.tv:8080/1122/1122/68601
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Explorer Natyra
+http://opplex.tv:8080/1122/1122/68602
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Explorer Shkence
+http://opplex.tv:8080/1122/1122/68603
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Gjurme Shqiptare
+http://opplex.tv:8080/1122/1122/68604
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Mekka
+http://opplex.tv:8080/1122/1122/68605
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | National Geographic HD
+http://opplex.tv:8080/1122/1122/68606
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | Peace TV
+http://opplex.tv:8080/1122/1122/68607
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | RTV Islam
+http://opplex.tv:8080/1122/1122/68608
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- KULTURE",ALB | RTV Pendimi
+http://opplex.tv:8080/1122/1122/68609
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | ---------- FEMIJE ----------
+http://opplex.tv:8080/1122/1122/68610
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | BabyTV
+http://opplex.tv:8080/1122/1122/68611
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Bang Bang
+http://opplex.tv:8080/1122/1122/68612
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Boomerang
+http://opplex.tv:8080/1122/1122/68613
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Cufo
+http://opplex.tv:8080/1122/1122/68614
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Junior TV
+http://opplex.tv:8080/1122/1122/68615
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | RTSH Femije
+http://opplex.tv:8080/1122/1122/68616
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Sole TV
+http://opplex.tv:8080/1122/1122/68617
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- FEMIJE",ALB | Tip TV
+http://opplex.tv:8080/1122/1122/68618
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | ---------- MUZIKE ----------
+http://opplex.tv:8080/1122/1122/68619
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | BBF Music HD
+http://opplex.tv:8080/1122/1122/68620
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Click HD
+http://opplex.tv:8080/1122/1122/68621
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Elrodi
+http://opplex.tv:8080/1122/1122/68622
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Folk+
+http://opplex.tv:8080/1122/1122/68623
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Folk+
+http://opplex.tv:8080/1122/1122/68624
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | IN TV
+http://opplex.tv:8080/1122/1122/68625
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | MTV Kosova
+http://opplex.tv:8080/1122/1122/68626
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | My Music
+http://opplex.tv:8080/1122/1122/68627
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | On TV
+http://opplex.tv:8080/1122/1122/68628
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | RTSH Muzik
+http://opplex.tv:8080/1122/1122/68629
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | RTV 21 Plus HD
+http://opplex.tv:8080/1122/1122/68630
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | RTV 21 Popullore
+http://opplex.tv:8080/1122/1122/68631
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Shenja TV
+http://opplex.tv:8080/1122/1122/68632
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Star Plus
+http://opplex.tv:8080/1122/1122/68633
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Supersonic
+http://opplex.tv:8080/1122/1122/68634
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | Turbo Channel
+http://opplex.tv:8080/1122/1122/68635
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | TV Mitrovica
+http://opplex.tv:8080/1122/1122/68636
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- MUZIKE",ALB | TV Opoja HD
+http://opplex.tv:8080/1122/1122/68637
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | ---------- TE TJERA ----------
+http://opplex.tv:8080/1122/1122/68638
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | 24 Kitchen
+http://opplex.tv:8080/1122/1122/68639
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | First Channel
+http://opplex.tv:8080/1122/1122/68640
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | Fox Crime
+http://opplex.tv:8080/1122/1122/68641
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | Fox Life
+http://opplex.tv:8080/1122/1122/68642
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | Koha TV
+http://opplex.tv:8080/1122/1122/68643
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | Living HD
+http://opplex.tv:8080/1122/1122/68644
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- TE TJERA",ALB | Rrokum TV
+http://opplex.tv:8080/1122/1122/68645
+
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | ---------- SPORTIVE ----------
+http://opplex.tv:8080/1122/1122/68646
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport 1 HD
+http://opplex.tv:8080/1122/1122/68647
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport 2 HD
+http://opplex.tv:8080/1122/1122/68648
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport 3 HD
+http://opplex.tv:8080/1122/1122/68649
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport 4 HD
+http://opplex.tv:8080/1122/1122/68650
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport 5 HD
+http://opplex.tv:8080/1122/1122/68651
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport Kosova 1 HD
+http://opplex.tv:8080/1122/1122/68652
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Super Sport Kosova 2 HD
+http://opplex.tv:8080/1122/1122/68653
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Kujtesa Sport 1 HD
+http://opplex.tv:8080/1122/1122/68654
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Kujtesa Sport 2 HD
+http://opplex.tv:8080/1122/1122/68655
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Kujtesa Sport 3 HD
+http://opplex.tv:8080/1122/1122/68656
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | Kujtesa Sport 4 HD
+http://opplex.tv:8080/1122/1122/68657
+#EXTINF:0 tvg-id="ext" group-title="ALB | ---------- SPORTIVE",ALB | RTSH Sport
+http://opplex.tv:8080/1122/1122/68663
 
