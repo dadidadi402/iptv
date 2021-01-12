@@ -1,1 +1,186 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+	<title><![CDATA[]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Jim Jam]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch17/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  MTV live hd]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch50/ 01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Mediacorp]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch15/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  VJ fashion]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch16/01 .m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Bein sports1]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch18/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Bein sports2]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch19/01 .m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Sports de combat]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch20/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Eurosport]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.37:8800/live/ch21/01 .m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Nickelodeon]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch43/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Setanta sports]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch44/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  History]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch45/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[# EXTINF:  Bio]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch46/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  CRIME INVESTIGATION]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch47/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[#EXTINF :  LIFE TIME]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch48/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  CARTOONITO]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.36:8800/live/ch49/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Discovery kids]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch36/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Fashion one]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch37/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  HD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch38/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Nat geo wild]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch39/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  MGM]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch40/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Travel]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: //202.75.23.35:8800/live/ch41/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  MTV rock]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.35:8800/live/ch42/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  Discovery]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: / /202.75.23.34:8800/live/ch29/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  DISCOVERY HD WORLD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.34:8800/live/ch30/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  ANIMAL PLANET]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: //202.75.23.34:8800/live/ch31/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  DISCOVERY TURBO]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.34:8800/live/ch32/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  DISCOVERY SCIENCE]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: //202.75.23.34:8800/live/ch33/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  HOME & HEALTH]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.34:8800/live/ch34/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  TLC]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.34:8800/live/ch35/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  METRO TV]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http : //202.75.23.33: 8800 / live / ch22 / 01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  TRANSTV]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.33:8800/live/ch23/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  TRANS 7]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: //202.75.23.33:8800/live/ch24/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  TVRI]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.33:8800/live/ch25/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  ASN sports]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: / /202.75.23.33:8800/live/ch26/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  BABY FIRST]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http://202.75.23.33:8800/live/ch27/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[  BBC]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[http: // 202.75.23.33:8800/live/ch28/01.m3u8]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+</items>
