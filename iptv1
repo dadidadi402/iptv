@@ -1,165 +1,203 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-../nrnjt1ch/1728/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-../nrnjt1ch/640/chunklist.m3u8
-#EXTINF:0 tvg-id="24kitchen.nl" group-title="Undefined",24 Kitchen NL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4808?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",7 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10081?checkedby:hlscat.com
-#EXTINF:0 tvg-id="OraNews.al" group-title="Undefined",Ora News
-https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",ART Kino 1 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243966.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",ART Kino 2 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243967.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",ART Kino 3 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243968.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Alb Action HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4753?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Alb Hits FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10118?checkedby:hlscat.com
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Undefined",Alsat M AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4836?checkedby:hlscat.com
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Undefined",Alsat M HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10014?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Bang Bang FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4829?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Cufo HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9973?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Digi Gold 1 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10024?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Digi Gold 2 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4779?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Digi Gold 3 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4778?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Digi Gold 4 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9928?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Euro Film AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4796?checkedby:hlscat.com
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="Undefined",Explorer Histori AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4813?checkedby:hlscat.com
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Undefined",Explorer Natyra AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4814?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Explorer Shkence HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4815?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",FILM HITS FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1330?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Film Aksion FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4806?checkedby:hlscat.com
-#EXTINF:0 tvg-id="DigiGold.al" group-title="Undefined",Film GOLD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/171890?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Film Hits FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4720?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Undefined",Film Nje HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4799?checkedby:hlscat.com
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="Undefined",First Channel AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4834?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KTV.al" group-title="Undefined",KTV HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4838?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kanal 10 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4833?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kanal D Drama FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683178?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Kanali7.al" group-title="Undefined",Kanali 7 AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4848?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kino Action HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10215?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kino Gold 3 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10213?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kino Premiere 1 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243969.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kino Premiere 2 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243970.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Kino Premiere 3 HD
-http://links.iptvlogin.com:80/live/vhq7GD6upH/nNWN86sbsE/243971.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Undefined",Klan Kosova FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4846?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Klan Plus HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4847?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",MTV Kosova AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10125?checkedby:hlscat.com
-#EXTINF:0 tvg-id="News24.al" group-title="Undefined",News 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="RTK.al" group-title="Undefined",RTK 1 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4844?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",RTK 2  HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14124?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",RTK 3  HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14123?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",RTK 4 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4841?checkedby:hlscat.com
-#EXTINF:0 tvg-id="RTV21.al" group-title="Undefined",RTV 21 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9959?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Sofia TV AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4824?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Syri Vizion AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9955?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",T7 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20567?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Dukagjini HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9954?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Koha AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10075?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Mitrovica AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9951?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Undefined",Top Channel FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4856?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Undefined",Top Channel HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21321?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Tring Action AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9925?checkedby:hlscat.com
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Undefined",Vizion Plus FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4850?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Zico TV FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10122?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",Klan FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1853?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",Klan HD
-http://super1.ideaiptv.com:2052/bandook/3243243/61422?checkedby:hlscat.com
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",Klan TV HD
-http://opplex.tv:8080/1122/1122/68526?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",K Sport 2 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1864?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K Sport 1 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1863?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K Sport 3 HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1865?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 1 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15177?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 2 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151762?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 3 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151754?checkedby:hlscat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",Super Sport 1 HD
-http://opplex.tv:8080/1122/1122/68647?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 1 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4729?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 2 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4728?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 3 FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625241?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 4 FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625240?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 5 FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4725?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",Tring Sport 1 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4721?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",Tring Sport 2 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21615?checkedby:hlscat.com
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",Tring Sport 3 HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4719?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Tring Sport 4 [Match Time] FHD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4718?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="MyMusic.al" group-title="Music",My Music AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10111?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="OraNews.al" group-title="News",ORA News HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4853?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="News",Top News HD AL
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10007?checkedby:hlscat.com
-
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+	<title><![CDATA[Geo HD the People nat]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?7ad09373f65c48d5bb6aa6c3b2ca519a]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the Outdoor Channel HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?1c551f42019d40e8acf32e8218ef8703]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[nat the Music Geo HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http: // totiptv .duapp.com / live_proxy / totiptv / the live? 69c2eab6794344619a049c5dea60ca22]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Sky News HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?31b003ab7e7749a798fe00424e3dd9ff]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Bio Channel HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live ? 169a149fd1ef40edba0bbfc8e0f1bdd1]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Comedy Central HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?2f18d4ba25224edaa8bb9aac94b00d4f]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Crime and Investigation (CI) HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?9961a963920f45f4bc0d81c3e478b334]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Fashion TV HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?df468a12ae6547de9637486bdc2025ativ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Crime.Fox]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[HDapp live_proxy / totiptv / the live? 5028f7ff1d1b4d5f8189690233364737]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the FX HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?2e0e4b05aa6e428593f3b45b710045b7]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the ITV Choice HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?e36b99bcd26648af9db2261785c77b7a]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the Sony Entertainment's the TV HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?bd30e27f1c48430ba2104548a1b124ca]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Star World HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?65f7358b813048a0898f5677e1793cf9]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HD SyFy]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?71f197de056e499a85265c03b44bdab1]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the Travel Channel]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?4c136f4cb1fd4f62a583a029c2eb6c77]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Thrill]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy / totiptv / live? c316ed9333e54442b25077f0bb3cc269]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Universal Channel HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?a7105ed1bb0a44bba1f4f71f2352b892]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[WBTV ( ThaiDuapp4f2352b892 WBTV (Thai) HD)]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.de]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Channel V International]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?9e38a0084e6d45d080139a166c60a102]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Deutsche Welle]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?6DE1E752A9974A5980166483C8ED6BB8]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Kix]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?e584e0adae6440eab366f5fe3a824f91]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Al Yazeera News]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/ ? totiptv / the live ea4c9d2666bc411d8e6777e8a1d2b747]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[of Euronews]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?3F35C4428A0D4004A38FF0ADBA7664F4]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[France 24 News]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?82c764aa2d7f42579348b8717cb5b9a4]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Fox | News]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http: // totiptv .duapp.com / live_proxy / totiptv / live? 1e2041858ca543fa90ec95d28197e907]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[MSNBC HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?7f2989e3f87e4efdb36bac56b64dca62]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Wealth TV HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?ce9a1585f45d4379970b95308df3f879]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[M HD (This is K-POP)]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?8237601ce3ea4baed8332ebb0d88 //]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Live]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[totiptv.duapp.com/live_proxy/totiptv/live?8d45473ff4ca44d79e1abc4516c2fee0]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Animax]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?d3edb48a8bb847c78432270e23ddca73]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Baby the TV HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live? 7773f3cef0334a28ad248552ea63d9e7]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Cartoonito HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?dff1502eb25c4912aea009df5d0fde9b]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Edge HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv.duapp.com/live_proxy/totiptv.duapp.com/live_proxy400/totiptv/live37HD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[?]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?0d01fdc1362f427ca5527c645f5f908f]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Ten Cricket]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?07febaf06cea4afeba557b3836d959d6]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[WETV HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/ totiptv / the live? dea34fa045074639b3a18123d4b4eda0]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[the MTV Asia]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?ebce2f5139c54eda8b111e5923af9c9e]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[of SUN the CHANNEL HD-the LA the LIGA (SPANISH SOCCER)]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live? ce4efc6a833f424f8d6cdcad5573f369]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Choice the Sport 1 HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?614b0a940fa0486e8c4ad00e51ae22ff]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Choice the Sport 2 HD]]></title>
+	<description><![CDATA[<img src="http://vip-tv.org.ua/favicon.ico">Вип ТВ]]></description>
+	<stream_url><![CDATA[http://totiptv.duapp.com/live_proxy/totiptv/live?3e169d2e76cb46c9b3702e34e51ecdba]]></stream_url>
+</channel>
+</items>
