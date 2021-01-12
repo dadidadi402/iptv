@@ -1,1 +1,595 @@
-
+#EXTM3U
+#EXTINF:-1,TOP CHANNEL
+http://secured.albportal.net:8080/client(portal)/playlist/1
+#EXTINF:-1,KLAN PLUS
+http://secured.albportal.net:8080/client(portal)/playlist/3
+#EXTINF:-1,VIZION PLUS
+http://secured.albportal.net:8080/client(portal)/playlist/4
+#EXTINF:-1,NEWS 24
+http://secured.albportal.net:8080/client(portal)/playlist/5
+#EXTINF:-1,ORA HD
+http://secured.albportal.net:8080/client(portal)/playlist/6
+#EXTINF:-1,ORA NEWS
+http://secured.albportal.net:8080/client(portal)/playlist/7
+#EXTINF:-1,KLAN KOSOVA
+http://secured.albportal.net:8080/client(portal)/playlist/8
+#EXTINF:-1,ALSAT M
+http://secured.albportal.net:8080/client(portal)/playlist/9
+#EXTINF:-1,REPORT TV
+http://secured.albportal.net:8080/client(portal)/playlist/10
+#EXTINF:-1,SUPERSPORT 1
+http://secured.albportal.net:8080/client(portal)/playlist/11
+#EXTINF:-1,SUPERSPORT 2
+http://secured.albportal.net:8080/client(portal)/playlist/12
+#EXTINF:-1,SUPERSPORT 4
+http://secured.albportal.net:8080/client(portal)/playlist/13
+#EXTINF:-1,TRING SPORT 1
+http://secured.albportal.net:8080/client(portal)/playlist/14
+#EXTINF:-1,TRING SPORT 2
+http://secured.albportal.net:8080/client(portal)/playlist/15
+#EXTINF:-1,TV KLAN
+http://secured.albportal.net:8080/client(portal)/playlist/2
+#EXTINF:-1,TRING SPORT 3
+http://secured.albportal.net:8080/client(portal)/playlist/16
+#EXTINF:-1,TRING SPORT 4
+http://secured.albportal.net:8080/client(portal)/playlist/17
+#EXTINF:-1,FILM AKSION
+http://secured.albportal.net:8080/client(portal)/playlist/18
+#EXTINF:-1,FILM 1
+http://secured.albportal.net:8080/client(portal)/playlist/19
+#EXTINF:-1,FILM 2
+http://secured.albportal.net:8080/client(portal)/playlist/20
+#EXTINF:-1,FILM AUTOR
+http://secured.albportal.net:8080/client(portal)/playlist/21
+#EXTINF:-1,FILM DRAME
+http://secured.albportal.net:8080/client(portal)/playlist/22
+#EXTINF:-1,FILM KOMEDI
+http://secured.albportal.net:8080/client(portal)/playlist/23
+#EXTINF:-1,3 PLUS
+http://secured.albportal.net:8080/client(portal)/playlist/24
+#EXTINF:-1,JOLLY HD
+http://secured.albportal.net:8080/client(portal)/playlist/25
+#EXTINF:-1,EPISODE
+http://secured.albportal.net:8080/client(portal)/playlist/26
+#EXTINF:-1,ART KINO 1
+http://secured.albportal.net:8080/client(portal)/playlist/27
+#EXTINF:-1,ART KINO 2
+http://secured.albportal.net:8080/client(portal)/playlist/28
+#EXTINF:-1,ART KINO 3
+http://secured.albportal.net:8080/client(portal)/playlist/29
+#EXTINF:-1,EXP SHKENCE
+http://secured.albportal.net:8080/client(portal)/playlist/30
+#EXTINF:-1,EXP NATYRE
+http://secured.albportal.net:8080/client(portal)/playlist/31
+#EXTINF:-1,EXP HISTORI
+http://secured.albportal.net:8080/client(portal)/playlist/32
+#EXTINF:-1,CUFO TV
+http://secured.albportal.net:8080/client(portal)/playlist/33
+#EXTINF:-1,PLUS TV
+http://secured.albportal.net:8080/client(portal)/playlist/36
+#EXTINF:-1,LIVE TV HD
+http://secured.albportal.net:8080/client(portal)/playlist/37
+#EXTINF:-1,RTV RED
+http://secured.albportal.net:8080/client(portal)/playlist/38
+#EXTINF:-1,TV KOHA
+http://secured.albportal.net:8080/client(portal)/playlist/39
+#EXTINF:-1,ALBANIA CH
+http://secured.albportal.net:8080/client(portal)/playlist/40
+#EXTINF:-1,SHOTA TV
+http://secured.albportal.net:8080/client(portal)/playlist/41
+#EXTINF:-1,ALBSWISS
+http://secured.albportal.net:8080/client(portal)/playlist/42
+#EXTINF:-1,USKANA TV
+http://secured.albportal.net:8080/client(portal)/playlist/43
+#EXTINF:-1,TV KOMBI
+http://secured.albportal.net:8080/client(portal)/playlist/44
+#EXTINF:-1,TV KLAN 2
+http://secured.albportal.net:8080/client(portal)/playlist/51
+#EXTINF:-1,STAR PLUS
+http://secured.albportal.net:8080/client(portal)/playlist/54
+#EXTINF:-1,ZICO TV
+http://secured.albportal.net:8080/client(portal)/playlist/57
+#EXTINF:-1,DASMA TV
+http://secured.albportal.net:8080/client(portal)/playlist/58
+#EXTINF:-1,NOVA MEDIA
+http://secured.albportal.net:8080/client(portal)/playlist/59
+#EXTINF:-1,CITY TV
+http://secured.albportal.net:8080/client(portal)/playlist/60
+#EXTINF:-1,TOP NEWS
+http://secured.albportal.net:8080/client(portal)/playlist/61
+#EXTINF:-1,SS3 WEB
+http://secured.albportal.net:8080/client(portal)/playlist/62
+#EXTINF:-1,3 PLUS WEB
+http://secured.albportal.net:8080/client(portal)/playlist/64
+#EXTINF:-1,JOLLY WEB
+http://secured.albportal.net:8080/client(portal)/playlist/65
+#EXTINF:-1,D DRAMA WEB
+http://secured.albportal.net:8080/client(portal)/playlist/66
+#EXTINF:-1,TDC WEB
+http://secured.albportal.net:8080/client(portal)/playlist/67
+#EXTINF:-1,TOP ESTRADA WEB
+http://secured.albportal.net:8080/client(portal)/playlist/55
+#EXTINF:-1,ALBUK WEB
+http://secured.albportal.net:8080/client(portal)/playlist/86
+#EXTINF:-1,APOLLON WEB
+http://secured.albportal.net:8080/client(portal)/playlist/87
+#EXTINF:-1,ZJARR TV WEB
+http://secured.albportal.net:8080/client(portal)/playlist/88
+#EXTINF:-1,RTV 21 WEB
+http://secured.albportal.net:8080/client(portal)/playlist/89
+#EXTINF:-1,Al- ABC News 24/7
+http://linux-app.tv:6204/15020208413552/24021189856304/9128
+#EXTINF:-1,Al- Bang Bang
+http://linux-app.tv:6204/15020208413552/24021189856304/9127
+#EXTINF:-1,Al- BBF Music TV
+http://linux-app.tv:6204/15020208413552/24021189856304/9126
+#EXTINF:-1,Al- Cufo
+http://linux-app.tv:6204/15020208413552/24021189856304/9125
+#EXTINF:-1,Al- Digi Gold
+http://linux-app.tv:6204/15020208413552/24021189856304/9124
+#EXTINF:-1,Al- Eurosport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33591
+#EXTINF:-1,Al- Explorer History
+http://linux-app.tv:6204/15020208413552/24021189856304/9122
+#EXTINF:-1,Al- Explorer Shkence
+http://linux-app.tv:6204/15020208413552/24021189856304/9121
+#EXTINF:-1,Al- ExplorerNatyra
+http://linux-app.tv:6204/15020208413552/24021189856304/9120
+#EXTINF:-1,Al- Film Aksion
+http://linux-app.tv:6204/15020208413552/24021189856304/9119
+#EXTINF:-1,Al- Film Autor
+http://linux-app.tv:6204/15020208413552/24021189856304/9118
+#EXTINF:-1,Al- Film Drama
+http://linux-app.tv:6204/15020208413552/24021189856304/9117
+#EXTINF:-1,Al- Film DY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9116
+#EXTINF:-1,Al- Film Gold 1
+http://linux-app.tv:6204/15020208413552/24021189856304/9115
+#EXTINF:-1,Al- Film Hits
+http://linux-app.tv:6204/15020208413552/24021189856304/9114
+#EXTINF:-1,Al- Film Komedi
+http://linux-app.tv:6204/15020208413552/24021189856304/9113
+#EXTINF:-1,Al- Film NJE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9112
+#EXTINF:-1,Al- Film Thriller
+http://linux-app.tv:6204/15020208413552/24021189856304/9111
+#EXTINF:-1,Al- Folk Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9110
+#EXTINF:-1,Al- Fox
+http://linux-app.tv:6204/15020208413552/24021189856304/9108
+#EXTINF:-1,Al- Fox Crime
+http://linux-app.tv:6204/15020208413552/24021189856304/9107
+#EXTINF:-1,Al- Fox Life
+http://linux-app.tv:6204/15020208413552/24021189856304/9106
+#EXTINF:-1,Al- Fox Movies
+http://linux-app.tv:6204/15020208413552/24021189856304/9105
+#EXTINF:-1,Al- Jolly HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9104
+#EXTINF:-1,Al- Klan HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9101
+#EXTINF:-1,Al- KTV
+http://linux-app.tv:6204/15020208413552/24021189856304/9100
+#EXTINF:-1,Al- Living HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9099
+#EXTINF:-1,Al- My Music
+http://linux-app.tv:6204/15020208413552/24021189856304/9098
+#EXTINF:-1,Al- News 24
+http://linux-app.tv:6204/15020208413552/24021189856304/9097
+#EXTINF:-1,Al- RTK 3
+http://linux-app.tv:6204/15020208413552/24021189856304/9096
+#EXTINF:-1,Al- RTK 4
+http://linux-app.tv:6204/15020208413552/24021189856304/9095
+#EXTINF:-1,Al- RTV 21
+http://linux-app.tv:6204/15020208413552/24021189856304/9094
+#EXTINF:-1,Al- RTV 21 HD Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9091
+#EXTINF:-1,Al- RTV 21 HD Popullore
+http://linux-app.tv:6204/15020208413552/24021189856304/9090
+#EXTINF:-1,Al- T  HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9082
+#EXTINF:-1,Al- TiranaTV
+http://linux-app.tv:6204/15020208413552/24021189856304/9081
+#EXTINF:-1,Al- Top Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9080
+#EXTINF:-1,Al- Top News
+http://linux-app.tv:6204/15020208413552/24021189856304/9079
+#EXTINF:-1,Al- Tring 3
+http://linux-app.tv:6204/15020208413552/24021189856304/9078
+#EXTINF:-1,Al- Tring Comedy
+http://linux-app.tv:6204/15020208413552/24021189856304/9077
+#EXTINF:-1,Al- Tring Fantasy
+http://linux-app.tv:6204/15020208413552/24021189856304/9076
+#EXTINF:-1,Al- Tring History
+http://linux-app.tv:6204/15020208413552/24021189856304/9075
+#EXTINF:-1,Al- Tring Life
+http://linux-app.tv:6204/15020208413552/24021189856304/9074
+#EXTINF:-1,Al- Tring Planet
+http://linux-app.tv:6204/15020208413552/24021189856304/9073
+#EXTINF:-1,Al- Tring Shqip
+http://linux-app.tv:6204/15020208413552/24021189856304/9072
+#EXTINF:-1,Al- Tring Smile
+http://linux-app.tv:6204/15020208413552/24021189856304/9071
+#EXTINF:-1,Al- Tring Sport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33596
+#EXTINF:-1,Al- Tring Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33597
+#EXTINF:-1,Al- Tring Sport News
+http://linux-app.tv:6204/15020208413552/24021189856304/33598
+#EXTINF:-1,Al- Tring Super
+http://linux-app.tv:6204/15020208413552/24021189856304/9065
+#EXTINF:-1,Al- Tring Tring
+http://linux-app.tv:6204/15020208413552/24021189856304/9064
+#EXTINF:-1,Al- Tring World
+http://linux-app.tv:6204/15020208413552/24021189856304/8687
+#EXTINF:-1,Al- TV Koha
+http://linux-app.tv:6204/15020208413552/24021189856304/9063
+#EXTINF:-1,Al- X PREMIUM 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29068
+#EXTINF:-1,Al- X PREMIUM 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29069
+#EXTINF:-1,Al- X PREMIUM 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29070
+#EXTINF:-1,Al- X PREMIUM 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29071
+#EXTINF:-1,Al- X ROMANCE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29072
+#EXTINF:-1,Al- X SCI-FI HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29073
+#EXTINF:-1,Al- X THRILLER HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29074
+#EXTINF:-1,Al- X WESTERNE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29075
+#EXTINF:-1,Al- X ACTION HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29076
+#EXTINF:-1,Al- X COMEDY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29077
+#EXTINF:-1,Al- X DARK HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29078
+#EXTINF:-1,Al- X DRAMA HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29079
+#EXTINF:-1,Al- X FAMILY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29080
+#EXTINF:-1,Al- X FILMA 24 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29081
+#EXTINF:-1,Al- X HUMOR HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29082
+#EXTINF:-1,Al- X HISTORI HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29083
+#EXTINF:-1,Al- X NATYRA HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29084
+#EXTINF:-1,Al- ART Kino 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29085
+#EXTINF:-1,Al- ART Kino 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29086
+#EXTINF:-1,Al- ART Kino 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29087
+#EXTINF:-1,Al- TV Plisi HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29088
+#EXTINF:-1,Al- TV Plisi Humor HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29089
+#EXTINF:-1,Al- TV Plisi Qifteli HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29090
+#EXTINF:-1,Al- TV Plisi Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29091
+#EXTINF:-1,Al- TV Plisi Comedy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29092
+#EXTINF:-1,Al- TV Plisi Thriller HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29093
+#EXTINF:-1,Al- TV Plisi Fantasy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29094
+#EXTINF:-1,Al- TV Plisi Horror HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29095
+#EXTINF:-1,Al- Euro Film 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29096
+#EXTINF:-1,Al- Euro Film 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29097
+#EXTINF:-1,Al- Euro Film 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29098
+#EXTINF:-1,Al- Euro Film 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29099
+#EXTINF:-1,Al- DIGI GOLD 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29100
+#EXTINF:-1,Al- DIGI GOLD 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29101
+#EXTINF:-1,Al- DIGI GOLD 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29102
+#EXTINF:-1,Al- RTK 1
+http://linux-app.tv:6204/15020208413552/24021189856304/29115
+#EXTINF:-1,Al- RTK 2
+http://linux-app.tv:6204/15020208413552/24021189856304/29116
+#EXTINF:-1,Al- RTSH HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29117
+#EXTINF:-1,Al- RTSH 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29118
+#EXTINF:-1,Al- RTSH 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29119
+#EXTINF:-1,Al- RTSH 3
+http://linux-app.tv:6204/15020208413552/24021189856304/29120
+#EXTINF:-1,Al- RTSH Muzike
+http://linux-app.tv:6204/15020208413552/24021189856304/29121
+#EXTINF:-1,Al- RTSH Shqip
+http://linux-app.tv:6204/15020208413552/24021189856304/29122
+#EXTINF:-1,Al- RTSH FILM
+http://linux-app.tv:6204/15020208413552/24021189856304/29123
+#EXTINF:-1,Al- RTSH Gjirokastra
+http://linux-app.tv:6204/15020208413552/24021189856304/29124
+#EXTINF:-1,Al- RTSH 24 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29125
+#EXTINF:-1,Al- RTSH Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/29126
+#EXTINF:-1,Al- RTSH Spor HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29127
+#EXTINF:-1,Al- TVSH
+http://linux-app.tv:6204/15020208413552/24021189856304/9062
+#EXTINF:-1,Al- Vizion Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9061
+#EXTINF:-1,Al- K SPORT 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33299
+#EXTINF:-1,Al- K SPORT 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33301
+#EXTINF:-1,Al- K SPORT 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33302
+#EXTINF:-1,Al- K SPORT 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33303
+#EXTINF:-1,Al- ART SPORT 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33304
+#EXTINF:-1,Al- ART Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33305
+#EXTINF:-1,Al- ART Sport 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33306
+#EXTINF:-1,Al- Super Sport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33592
+#EXTINF:-1,Al- Super Sport 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33309
+#EXTINF:-1,Al- Super Sport 5 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33310
+#EXTINF:-1,Al- Super Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33593
+#EXTINF:-1,Al- Super Sport 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33594
+#EXTINF:-1,Al- Super Sport 4
+http://linux-app.tv:6204/15020208413552/24021189856304/33595
+#EXTINF:-1,Al- Supersonic TV 1
+http://linux-app.tv:6204/15020208413552/24021189856304/9083
+#EXTINF:-1,Al- Super Sport Kosova 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33307
+#EXTINF:-1,Al- Super Sport Kosova 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33308
+#EXTINF:-1,Al- ABC News 24/7
+http://linux-app.tv:6204/15020208413552/24021189856304/9128
+#EXTINF:-1,Al- Bang Bang
+http://linux-app.tv:6204/15020208413552/24021189856304/9127
+#EXTINF:-1,Al- BBF Music TV
+http://linux-app.tv:6204/15020208413552/24021189856304/9126
+#EXTINF:-1,Al- Cufo
+http://linux-app.tv:6204/15020208413552/24021189856304/9125
+#EXTINF:-1,Al- Digi Gold
+http://linux-app.tv:6204/15020208413552/24021189856304/9124
+#EXTINF:-1,Al- Eurosport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33591
+#EXTINF:-1,Al- Explorer History
+http://linux-app.tv:6204/15020208413552/24021189856304/9122
+#EXTINF:-1,Al- Explorer Shkence
+http://linux-app.tv:6204/15020208413552/24021189856304/9121
+#EXTINF:-1,Al- ExplorerNatyra
+http://linux-app.tv:6204/15020208413552/24021189856304/9120
+#EXTINF:-1,Al- Film Aksion
+http://linux-app.tv:6204/15020208413552/24021189856304/9119
+#EXTINF:-1,Al- Film Autor
+http://linux-app.tv:6204/15020208413552/24021189856304/9118
+#EXTINF:-1,Al- Film Drama
+http://linux-app.tv:6204/15020208413552/24021189856304/9117
+#EXTINF:-1,Al- Film DY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9116
+#EXTINF:-1,Al- Film Gold 1
+http://linux-app.tv:6204/15020208413552/24021189856304/9115
+#EXTINF:-1,Al- Film Hits
+http://linux-app.tv:6204/15020208413552/24021189856304/9114
+#EXTINF:-1,Al- Film Komedi
+http://linux-app.tv:6204/15020208413552/24021189856304/9113
+#EXTINF:-1,Al- Film NJE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9112
+#EXTINF:-1,Al- Film Thriller
+http://linux-app.tv:6204/15020208413552/24021189856304/9111
+#EXTINF:-1,Al- Folk Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9110
+#EXTINF:-1,Al- Fox
+http://linux-app.tv:6204/15020208413552/24021189856304/9108
+#EXTINF:-1,Al- Fox Crime
+http://linux-app.tv:6204/15020208413552/24021189856304/9107
+#EXTINF:-1,Al- Fox Life
+http://linux-app.tv:6204/15020208413552/24021189856304/9106
+#EXTINF:-1,Al- Fox Movies
+http://linux-app.tv:6204/15020208413552/24021189856304/9105
+#EXTINF:-1,Al- Jolly HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9104
+#EXTINF:-1,Al- Klan HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9101
+#EXTINF:-1,Al- KTV
+http://linux-app.tv:6204/15020208413552/24021189856304/9100
+#EXTINF:-1,Al- Living HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9099
+#EXTINF:-1,Al- My Music
+http://linux-app.tv:6204/15020208413552/24021189856304/9098
+#EXTINF:-1,Al- News 24
+http://linux-app.tv:6204/15020208413552/24021189856304/9097
+#EXTINF:-1,Al- RTK 3
+http://linux-app.tv:6204/15020208413552/24021189856304/9096
+#EXTINF:-1,Al- RTK 4
+http://linux-app.tv:6204/15020208413552/24021189856304/9095
+#EXTINF:-1,Al- RTV 21
+http://linux-app.tv:6204/15020208413552/24021189856304/9094
+#EXTINF:-1,Al- RTV 21 HD Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9091
+#EXTINF:-1,Al- RTV 21 HD Popullore
+http://linux-app.tv:6204/15020208413552/24021189856304/9090
+#EXTINF:-1,Al- T  HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9082
+#EXTINF:-1,Al- TiranaTV
+http://linux-app.tv:6204/15020208413552/24021189856304/9081
+#EXTINF:-1,Al- Top Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/9080
+#EXTINF:-1,Al- Top News
+http://linux-app.tv:6204/15020208413552/24021189856304/9079
+#EXTINF:-1,Al- Tring 3
+http://linux-app.tv:6204/15020208413552/24021189856304/9078
+#EXTINF:-1,Al- Tring Comedy
+http://linux-app.tv:6204/15020208413552/24021189856304/9077
+#EXTINF:-1,Al- Tring Fantasy
+http://linux-app.tv:6204/15020208413552/24021189856304/9076
+#EXTINF:-1,Al- Tring History
+http://linux-app.tv:6204/15020208413552/24021189856304/9075
+#EXTINF:-1,Al- Tring Life
+http://linux-app.tv:6204/15020208413552/24021189856304/9074
+#EXTINF:-1,Al- Tring Planet
+http://linux-app.tv:6204/15020208413552/24021189856304/9073
+#EXTINF:-1,Al- Tring Shqip
+http://linux-app.tv:6204/15020208413552/24021189856304/9072
+#EXTINF:-1,Al- Tring Smile
+http://linux-app.tv:6204/15020208413552/24021189856304/9071
+#EXTINF:-1,Al- Tring Sport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33596
+#EXTINF:-1,Al- Tring Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33597
+#EXTINF:-1,Al- Tring Sport News
+http://linux-app.tv:6204/15020208413552/24021189856304/33598
+#EXTINF:-1,Al- Tring Super
+http://linux-app.tv:6204/15020208413552/24021189856304/9065
+#EXTINF:-1,Al- Tring Tring
+http://linux-app.tv:6204/15020208413552/24021189856304/9064
+#EXTINF:-1,Al- Tring World
+http://linux-app.tv:6204/15020208413552/24021189856304/8687
+#EXTINF:-1,Al- TV Koha
+http://linux-app.tv:6204/15020208413552/24021189856304/9063
+#EXTINF:-1,Al- X PREMIUM 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29068
+#EXTINF:-1,Al- X PREMIUM 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29069
+#EXTINF:-1,Al- X PREMIUM 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29070
+#EXTINF:-1,Al- X PREMIUM 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29071
+#EXTINF:-1,Al- X ROMANCE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29072
+#EXTINF:-1,Al- X SCI-FI HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29073
+#EXTINF:-1,Al- X THRILLER HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29074
+#EXTINF:-1,Al- X WESTERNE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29075
+#EXTINF:-1,Al- X ACTION HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29076
+#EXTINF:-1,Al- X COMEDY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29077
+#EXTINF:-1,Al- X DARK HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29078
+#EXTINF:-1,Al- X DRAMA HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29079
+#EXTINF:-1,Al- X FAMILY HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29080
+#EXTINF:-1,Al- X FILMA 24 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29081
+#EXTINF:-1,Al- X HUMOR HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29082
+#EXTINF:-1,Al- X HISTORI HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29083
+#EXTINF:-1,Al- X NATYRA HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29084
+#EXTINF:-1,Al- ART Kino 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29085
+#EXTINF:-1,Al- ART Kino 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29086
+#EXTINF:-1,Al- ART Kino 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29087
+#EXTINF:-1,Al- TV Plisi HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29088
+#EXTINF:-1,Al- TV Plisi Humor HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29089
+#EXTINF:-1,Al- TV Plisi Qifteli HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29090
+#EXTINF:-1,Al- TV Plisi Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29091
+#EXTINF:-1,Al- TV Plisi Comedy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29092
+#EXTINF:-1,Al- TV Plisi Thriller HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29093
+#EXTINF:-1,Al- TV Plisi Fantasy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29094
+#EXTINF:-1,Al- TV Plisi Horror HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29095
+#EXTINF:-1,Al- Euro Film 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29096
+#EXTINF:-1,Al- Euro Film 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29097
+#EXTINF:-1,Al- Euro Film 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29098
+#EXTINF:-1,Al- Euro Film 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29099
+#EXTINF:-1,Al- DIGI GOLD 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29100
+#EXTINF:-1,Al- DIGI GOLD 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29101
+#EXTINF:-1,Al- DIGI GOLD 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29102
+#EXTINF:-1,Al- RTK 1
+http://linux-app.tv:6204/15020208413552/24021189856304/29115
+#EXTINF:-1,Al- RTK 2
+http://linux-app.tv:6204/15020208413552/24021189856304/29116
+#EXTINF:-1,Al- RTSH HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29117
+#EXTINF:-1,Al- RTSH 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29118
+#EXTINF:-1,Al- RTSH 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29119
+#EXTINF:-1,Al- RTSH 3
+http://linux-app.tv:6204/15020208413552/24021189856304/29120
+#EXTINF:-1,Al- RTSH Muzike
+http://linux-app.tv:6204/15020208413552/24021189856304/29121
+#EXTINF:-1,Al- RTSH Shqip
+http://linux-app.tv:6204/15020208413552/24021189856304/29122
+#EXTINF:-1,Al- RTSH FILM
+http://linux-app.tv:6204/15020208413552/24021189856304/29123
+#EXTINF:-1,Al- RTSH Gjirokastra
+http://linux-app.tv:6204/15020208413552/24021189856304/29124
+#EXTINF:-1,Al- RTSH 24 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29125
+#EXTINF:-1,Al- RTSH Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/29126
+#EXTINF:-1,Al- RTSH Spor HD
+http://linux-app.tv:6204/15020208413552/24021189856304/29127
+#EXTINF:-1,Al- TVSH
+http://linux-app.tv:6204/15020208413552/24021189856304/9062
+#EXTINF:-1,Al- Vizion Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/9061
+#EXTINF:-1,Al- K SPORT 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33299
+#EXTINF:-1,Al- K SPORT 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33301
+#EXTINF:-1,Al- K SPORT 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33302
+#EXTINF:-1,Al- K SPORT 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33303
+#EXTINF:-1,Al- ART SPORT 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33304
+#EXTINF:-1,Al- ART Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33305
+#EXTINF:-1,Al- ART Sport 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33306
+#EXTINF:-1,Al- Super Sport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33592
+#EXTINF:-1,Al- Super Sport 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33309
+#EXTINF:-1,Al- Super Sport 5 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33310
+#EXTINF:-1,Al- Super Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33593
+#EXTINF:-1,Al- Super Sport 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33594
+#EXTINF:-1,Al- Super Sport 4
+http://linux-app.tv:6204/15020208413552/24021189856304/33595
+#EXTINF:-1,Al- Supersonic TV 1
+http://linux-app.tv:6204/15020208413552/24021189856304/9083
+#EXTINF:-1,Al- Super Sport Kosova 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33307
+#EXTINF:-1,Al- Super Sport Kosova 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33308
