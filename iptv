@@ -1,4 +1,5 @@
-#EXTINF:-1,AL: 21 HD Popullore
+#EXTM3U
+1,AL: 21 HD Popullore
 http://server2978.webhi.org:8000/live/adrem/adrem/1896.m3u8
 #EXTINF:-1,AL: 7HD
 http://server2978.webhi.org:8000/live/adrem/adrem/1895.m3u8
