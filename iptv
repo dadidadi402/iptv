@@ -371,3 +371,8 @@ https://b.top4top.io/m_1477ceu0r3.mp4
 #EXTINF: -1,TOM and JERY 2
 https://c.top4top.io/m_1477kp8904.mp4
 http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10574.m3u8?checkedby:iptvcat.com
+#EXTVLCOPT:network-caching=1000
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10574.m3u8
+#EXTINF:59,10574.m3u8?checkedby:hlscat.com
+#EXTVLCOPT:network-caching=1000
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10574.m3u8?checkedby:hlscat.com
