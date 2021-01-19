@@ -378,3 +378,16 @@ http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10574.m3u8
 http://80.82.77.130:80/live/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/10574.m3u8?checkedby:hlscat.com
 
 https://iptvcat.com/my_list/b64b1afc387c6be134270dd47403b824.m3u8
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",Klan HD
+http://mac-tv.live:8880/youtube/0545154937/98066?checkedby:hlscat.com
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Undefined",Klan Kosova FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30128?checkedby:hlscat.com
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Undefined",Klan Kosova HD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/39414?checkedby:hlscat.com
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Undefined",Klan FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/1853?checkedby:hlscat.com
+#EXTINF:0 tvg-id="KlanPlusHD.al" group-title="Undefined",Klan Plus FHD
+http://mac-tv.live:8880/youtube/0545154937/98062?checkedby:hlscat.com
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Undefined",TOP CHANNEL HD
+http://rv.imax.re:80/5124037472/1572081885/82186?checkedby:hlscat.com
+
