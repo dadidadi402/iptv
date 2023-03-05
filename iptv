@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - TOP CHANNEL 4K
+http://tektv.co:80/Jemifikri/2D8D575073F5/53954
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - TOP CHANNEL HD ◉
 http://tektv.co:80/Jemifikri/2D8D575073F5/53956
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - BIG BROTHER 1 VIP HD
 http://tektv.co:80/Jemifikri/2D8D575073F5/323524
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - BIG BROTHER 2 VIP HD
 http://tektv.co:80/Jemifikri/2D8D575073F5/323525
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - BIG BROTHER VIP KOSOVA 1 HD
+http://tektv.co:80/Jemifikri/2D8D575073F5/321679
+#EXTINF:0 tvg-id="ext" group-title="EU | ALBANIA",ALB - BIG BROTHER VIP KOSOVA 2 HD
+http://tektv.co:80/Jemifikri/2D8D575073F5/321680
